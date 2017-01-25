@@ -21,6 +21,10 @@ public class HolaMundo {
         System.out.print("dfgdsklghgf");
 
         System.out.print("ADRIAN DEP :-P");
+        
+        System.out.print("1");
+        System.out.print("2");
+        System.out.print("3");
 
     }
     
